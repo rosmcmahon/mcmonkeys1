@@ -3,8 +3,7 @@
 Found who?
 
 - 💪 I’m a member of, and currently working on several projects for, [ARCA (Arweave Community Fund A)](https://github.com/ARCA-Arweave)
-- 👨‍🎓 I’m always learning. Right now I am using TypeScript (superset of JavaScript), ReactJS (vroom!), Redux (ouch this was hard!), and many many other things...
-- 🤝 I’m looking to collaborate on fun stuff! Web SPA apps living on the blockchain & javascript mobile apps right now!
+- 🤝 I’m looking to collaborate on fun stuff! Controlled fun, with TypeScript 🧐, web SPA apps living on the blockchain & JS mobile apps
 - 👀 I’m looking for help with app design, front/back-end coding, all the things 😃 so little time in one life
 - Ask me about getting paid for this 🤑💲
 
