@@ -1,11 +1,11 @@
-## 👋 Hi there, 👀 you have found me! 😬 
+## Hello 👋
 
-Found who?
+- I am currently working on, and maintaining several Arweave based projects
+- 🤝 Are you looking to collaborate on fun stuff?
+- 🧐 Controlled fun, with TypeScript (it's typed Javascript)
+- 👀 I’m looking for help with: design, front-end, back-end, all the things 😃 so little time in one life
+- 💲 Do you like money? Maybe you can have some for collaborating. All skill levels welcome, no time pressure 💲 Let's talk!
 
-- 💪 I’m a member of, and currently working on several projects for, [ARCA (Arweave Community Fund A)](https://github.com/ARCA-Arweave)
-- 🤝 I’m looking to collaborate on fun stuff! Controlled fun, with TypeScript 🧐 Right now, web apps living on the blockchain & JS mobile apps
-- 👀 I’m looking for help with app design, front/back-end coding, all the things 😃 so little time in one life
-- 💲 Ask me about getting paid for this 💲
 
 <!--
 **mcmonkeys1/mcmonkeys1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
