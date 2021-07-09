@@ -4,7 +4,7 @@
 - 🤝 Are you looking to collaborate on fun stuff?
 - 🧐 Controlled fun, with TypeScript (it's typed Javascript)
 - 👀 I’m looking for help with: design, front-end, back-end, all the things 😃 so little time in one life
-- 💲 Do you like money? Maybe you can have some for collaborating. All skill levels welcome, no time pressure 💲 Let's talk! Take a look here first though (https://github.com/ARCA-Arweave)
+- 💲 Do you like money? Maybe you can have some for collaborating. All skill levels welcome, no time pressure 💲 Let's talk!
 
 
 <!--
